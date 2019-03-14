@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="APICompProg.fs" />
+    <Compile Include="Constantes.fs" />
+    <Compile Include="Helpers.fs" />
+    <Compile Include="Conception.fs" />
+    <Compile Include="Utils.fs" />
+    <Compile Include="Collision.fs" />
+    <Compile Include="Callbacks.fs" />
+    <Compile Include="Library.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="FSharp.Core" Version="4.5.0" />
+  </ItemGroup>
+
+</Project>

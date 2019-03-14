@@ -1,0 +1,13 @@
+D:\ownClound\CompProg\TPs\TD_TP_Eatbrick\VSProject\EatBrick\EatBrick_library\bin\Debug\netstandard2.0\EatBrick_library.deps.json
+D:\ownClound\CompProg\TPs\TD_TP_Eatbrick\VSProject\EatBrick\EatBrick_library\bin\Debug\netstandard2.0\EatBrick_library.dll
+D:\ownClound\CompProg\TPs\TD_TP_Eatbrick\VSProject\EatBrick\EatBrick_library\bin\Debug\netstandard2.0\EatBrick_library.pdb
+D:\ownClound\CompProg\TPs\TD_TP_Eatbrick\VSProject\EatBrick\EatBrick_library\obj\Debug\netstandard2.0\EatBrick_library.AssemblyInfoInputs.cache
+D:\ownClound\CompProg\TPs\TD_TP_Eatbrick\VSProject\EatBrick\EatBrick_library\obj\Debug\netstandard2.0\EatBrick_library.AssemblyInfo.fs
+D:\ownClound\CompProg\TPs\TD_TP_Eatbrick\VSProject\EatBrick\EatBrick_library\obj\Debug\netstandard2.0\EatBrick_library.dll
+D:\ownClound\CompProg\TPs\TD_TP_Eatbrick\VSProject\EatBrick\EatBrick_library\obj\Debug\netstandard2.0\EatBrick_library.pdb
+Z:\CompProg\EatBrick\EatBrick_skel\EatBrick_library\bin\Debug\netstandard2.0\EatBrick_library.deps.json
+Z:\CompProg\EatBrick\EatBrick_skel\EatBrick_library\bin\Debug\netstandard2.0\EatBrick_library.dll
+Z:\CompProg\EatBrick\EatBrick_skel\EatBrick_library\bin\Debug\netstandard2.0\EatBrick_library.pdb
+Z:\CompProg\EatBrick\EatBrick_skel\EatBrick_library\obj\Debug\netstandard2.0\EatBrick_library.fsprojResolveAssemblyReference.cache
+Z:\CompProg\EatBrick\EatBrick_skel\EatBrick_library\obj\Debug\netstandard2.0\EatBrick_library.dll
+Z:\CompProg\EatBrick\EatBrick_skel\EatBrick_library\obj\Debug\netstandard2.0\EatBrick_library.pdb

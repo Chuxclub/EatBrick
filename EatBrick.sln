@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EatBrick", "EatBrick\EatBrick.csproj", "{2FEA9B61-7391-4498-B0BC-2B2B0F30C450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eatbrick_editor", "Eatbrick_editor\Eatbrick_editor.csproj", "{2044D3AC-4FA6-4297-A52E-E3C21340C9DF}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "EatBrick_library", "EatBrick_library\EatBrick_library.fsproj", "{E53E2AE9-BFEA-4D90-AE0E-A0A846025596}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Eatbrick_test", "Eatbrick_test\Eatbrick_test.fsproj", "{21F14145-EFF6-45DD-A681-39C72BFBFC09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEA9B61-7391-4498-B0BC-2B2B0F30C450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEA9B61-7391-4498-B0BC-2B2B0F30C450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEA9B61-7391-4498-B0BC-2B2B0F30C450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEA9B61-7391-4498-B0BC-2B2B0F30C450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2044D3AC-4FA6-4297-A52E-E3C21340C9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2044D3AC-4FA6-4297-A52E-E3C21340C9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2044D3AC-4FA6-4297-A52E-E3C21340C9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2044D3AC-4FA6-4297-A52E-E3C21340C9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53E2AE9-BFEA-4D90-AE0E-A0A846025596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53E2AE9-BFEA-4D90-AE0E-A0A846025596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53E2AE9-BFEA-4D90-AE0E-A0A846025596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53E2AE9-BFEA-4D90-AE0E-A0A846025596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F14145-EFF6-45DD-A681-39C72BFBFC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F14145-EFF6-45DD-A681-39C72BFBFC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F14145-EFF6-45DD-A681-39C72BFBFC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F14145-EFF6-45DD-A681-39C72BFBFC09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D5F0419-139C-4AF7-9E00-5C99BCC78993}
+	EndGlobalSection
+EndGlobal
