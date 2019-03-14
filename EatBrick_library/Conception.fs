@@ -25,12 +25,12 @@ type t_ball = {
 
 type t_pad = {
     loc : float ref;
-    width : int ref
+    width : int ref;
 }
 
 type t_brick = {
     pos : t_point;
-    bkind : t_brick_kind ref
+    bkind : t_brick_kind ref;
 }
 
 type t_eatbrick = {
